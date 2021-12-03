@@ -5,23 +5,30 @@ Alphabetical lists of themed elements good for naming releases/versions
 * Balls!
 * Candy
 * Comic Book Villains
-* Colors Construction/Automotive Tools Craft Breweries
-* Dickens Characters Exclamations by Robin
+* Colors
+* Construction/Automotive Tools
+* Craft Breweries
+* Dickens Characters
+* Exclamations by Robin
 * Foods
 * Garbage Pail Kids
-* Greater Cleveland Cities Guitarists
+* Greater Cleveland Cities
+* Guitarists
 * Internet Memes
 * Lord of the Rings
 * Marvel Characters
-* Movies of Samuel L Jackson Musical Instruments
+* Movies of Samuel L Jackson
+* Musical Instruments
 * Nintendo Entertainment System Games
 * Pokemon
 * Power Metal Groups
-* Random Amusing Words Restaurants
+* Random Amusing Words
+* Restaurants
 * Sci-Fi Weapons/Vehicles Shops at Crocker Park
 * Threat Levels
 * Jackie Chan Movies
-* Roman History that Jeff Knows 80s Saturday Morning Cartoons
+* Roman History that Jeff Knows
+* 80s Saturday Morning Cartoons
 
 ## Balls!
 * American Football Baseball
