@@ -31,8 +31,10 @@ Alphabetical lists of themed elements good for naming releases/versions
 * 80s Saturday Morning Cartoons
 
 ## Balls!
-* American Football Baseball
-* Croquet ball Dodgeball
+* American Football
+* Baseball
+* Croquet ball
+* Dodgeball
 * Eight ball
 * Foursquare ball
 * Golf ball
@@ -42,23 +44,29 @@ Alphabetical lists of themed elements good for naming releases/versions
 * Kickball
 * Lacrosse ball
 * Motoball
-* Nine-pin bowling ball Oztag ball
+* Nine-pin bowling ball
+* Oztag ball
 * Pickleball
 * Quaffle
 * Racquetball
 * Skeeball
 * Tetherball
-* Underwater Rugby ball Volleyball
+* Underwater Rugby ball
+* Volleyball
 * Wiffleball
 * Xare ball
 * Yak polo ball
 * Zorb football
 
 ## Candy
-* Airheads Butterfinger Charleston Chews Dots
+* Airheads
+* Butterfinger
+* Charleston Chews
+* Dots
 * Everlasting Gobstopper
 * Fun Dip
-* Good and Plenty Heath Bar
+* Good and Plenty
+* Heath Bar
 * Ice Breakers
 * Jolly Rancher
 * Kit Kat
@@ -75,17 +83,30 @@ Alphabetical lists of themed elements good for naming releases/versions
 * Valomilk
 * Warheads
 * Xtremes Airheads
-* York Peppermint Pattie Zours or Zots
+* York Peppermint Pattie
+* Zours or Zots
 
 ## Comic Book Villains
-* Abomination Bane Catwoman Doctor Octopus
+* Abomination
+* Bane
+* Catwoman
+* Doctor Octopus
 * Electro
-* Fever Pitch Galactus
+* Fever Pitch
+* Galactus
 * Harley Quinn
-* Iron Fist Juggernaut, Joker Kraven
-* Lex Luthor Mystique Nightshade Onslaught
-* Poison Ivy Quicksand Riddler
-* Star Sapphire Two-Face
+* Iron Fist
+* Juggernaut, Joker
+* Kraven
+* Lex Luthor
+* Mystique
+* Nightshade
+* Onslaught
+* Poison Ivy
+* Quicksand
+* Riddler
+* Star Sapphire
+* Two-Face
 * Ultron
 * Venom
 * Whiplash
@@ -123,11 +144,14 @@ Alphabetical lists of themed elements good for naming releases/versions
 
 ## Construction/Automotive Tools
 * Air Gun
-* Breaker Bar (Brass Punch) Compressor (Channel Locks) Drill Motor
+* Breaker Bar (Brass Punch)
+* Compressor (Channel Locks)
+* Drill Motor
 * E
 * Flashlight
 * Grease gun
-* Hammer (Hex Key, Hacksaw) Impact driver
+* Hammer (Hex Key, Hacksaw)
+* Impact driver
 * Jack
 * Kajandu, Khurpa, Kunai
 * Lock picking
@@ -137,14 +161,16 @@ Alphabetical lists of themed elements good for naming releases/versions
 * Pliers (Pry Bar)
 * Quick Lift Jack
 * Ratchet (Ruler)
-* Screwdriver (Saw, Socket) Tape Measure (Tool Box) Umnumzaan
+* Screwdriver (Saw, Socket)
+* Tape Measure (Tool Box)
+* Umnumzaan
 * Vise Grips Wrench
 * X
 * Y
 * Zax
 
 ## Craft Breweries
-For most letters there are plenty of other choices. These are just some of DF Dave Forgac (5022)'s favorites.
+For most letters there are plenty of other choices.
 * Abita
 * Bell's
 * Cigar City
@@ -173,8 +199,10 @@ For most letters there are plenty of other choices. These are just some of DF Da
 * Zaftig
 
 ## Dickens Characters
-* Artful Dodger, Adolphus Tetterby, Affery Flintwinch, Augustus Snodgrass Bumble the Beadle, Bayham Badger, Bella Wilfer
-* Charity Pecksniff, Cleopatra Skewton, Cornelia Blimber, Canon Crisparkle Dick Datchery, Dolge Orlick
+* Artful Dodger, Adolphus Tetterby, Affery Flintwinch, Augustus Snodgrass
+* Bumble the Beadle, Bayham Badger, Bella Wilfer
+* Charity Pecksniff, Cleopatra Skewton, Cornelia Blimber, Canon Crisparkle
+* Dick Datchery, Dolge Orlick
 * Ebenezer Scrooge, Ephraim Flintwinch
 * Fanny Squeers, Flora Finching, Fagin, Fezziwig
 * Gaffer Hexam, General Cyrus Choke, Grewgious
@@ -183,15 +211,18 @@ For most letters there are plenty of other choices. These are just some of DF Da
 * Jemima Bilberry, Job Trotter
 * Kit Nubbles, Kenge
 * Lavinia Wilfer, Lucretia Tox, Luke Honeythunder
-* Malta Bagnet, Montague Tigg, Mercy Pecksniff, Mr. M’Choakumchild Ninetta Crummles, Nadgett, Newman Noggs, Noddy Boffin
+* Malta Bagnet, Montague Tigg, Mercy Pecksniff, Mr. M’Choakumchild
+* Ninetta Crummles, Nadgett, Newman Noggs, Noddy Boffin
 * Oliver Twist
 * Peg Sliderskew, Pleasant Riderhood, Polly Toodle, Pumblechook Quinion
+* Q
 * Rogue Riderhood
 * Sairey Gamp, Sissy Jupe, Sophronia Lammle, Smike
 * Theophile Gabelle, Tattycoram
 * Uriah Heap
 * Vholes, Volumnia Dedlock
 * Wackford Squeers
+* X
 * the five sisters of York
 * Zephaniah Scadde, Zamiel
 
@@ -231,7 +262,8 @@ It will be infinitely difficult to narrow it down to only one per letter, but he
 * Adam Bomb, Art Apart, April Showers, Ashcan Andy, Ailin' Al, Anna Banana
 * Bad Brad, Busted Bob, Blasted Billy, Boozin' Bruce, Bugged Bert, Brainy Janie, Bony Joanie, Buggy Betty
 * Cranky Frankie, Corroded Carl, Crater Chris, Creepy Carol, Chilly Millie, Cindy Lopper
-* Dead Ted, Drunk Ken, Dressy Jesse, Drippy Dan, Damaged Don, Paved Dave, New Wave Dave Evil Eddie, Electric Bill
+* Dead Ted, Drunk Ken, Dressy Jesse, Drippy Dan, Damaged Don, Paved Dave, New Wave Dave
+* Evil Eddie, Electric Bill
 * Fryin' Brian, Furry Fran, Fat Matt, Flat Pat, Frigid Bridget
 * Geeky Gary, Graffiti Petey, GuilloTina, Green Jean
 * Heavin' Steven, Hairy Mary, Haggy Maggie
@@ -284,7 +316,6 @@ With help from the rest of the state for J, Q, X, Z - Obtained from http://en.wi
 * Zanesville
 
 ## Guitarists
-(where * = Mike P's recommendation)
 * Akkerman*, Anderson*
 * Barrett*, Bartek*, Belew*, Berry, Buckingham
 * Clapton*
@@ -301,7 +332,8 @@ With help from the rest of the state for J, Q, X, Z - Obtained from http://en.wi
 * Navarro, Nash, Nesmith, Nelson, Noodle
 * Oldfield*
 * Page*, Presley
-* Quine (http://www.digitaldreamdoor.com/pages/best_newguitar.html) Richards*, Rheinhardt*, Reznor, Rutherford, Rhoads
+* Quine (http://www.digitaldreamdoor.com/pages/best_newguitar.html)
+* Richards*, Rheinhardt*, Reznor, Rutherford, Rhoads
 * Springsteen, Sambora, Satriani, Santana, Scholz*
 * Townshend*, Tufnel
 * Ulvaeus
@@ -314,7 +346,9 @@ With help from the rest of the state for J, Q, X, Z - Obtained from http://en.wi
 ## Internet Memes
 * All Your Base, Arrow to the Knee
 * Badger Badger Badger
-* Charlie the Unicorn, Chuck Testa, Cake is a Lie, Charlie Bit Me Double Rainbow, Dramatic Chipmunk, Dog Shaming Exploding Whale, Epic Fail
+* Charlie the Unicorn, Chuck Testa, Cake is a Lie, Charlie Bit Me
+* Double Rainbow, Dramatic Chipmunk, Dog Shaming
+* Exploding Whale, Epic Fail
 * Facepalm, FTW
 * Grumpy Cat
 * Hampster Dance, Happy Tree Friends, Honey Badger
@@ -346,7 +380,8 @@ With help from the rest of the state for J, Q, X, Z - Obtained from http://en.wi
 * Gandalf, Galadriel, Gollum, Gimli, Gloin
 * Hador, Haldir, Húrin
 * Isildur
-* JRR Tolkien (there are literally no J names in LotR otherwise) Kili, Khim
+* JRR Tolkien (there are literally no J names in LotR otherwise)
+* Kili, Khim
 * Legolas
 * Mordor, Mallor
 * Morgoth/ Melkor
@@ -355,15 +390,20 @@ With help from the rest of the state for J, Q, X, Z - Obtained from http://en.wi
 * Pippin
 * Quickbeam
 * Radagast
-* Saruman, Smeagol, Samwise, Sauron, Shadowfax, Shelob Turin Turambar, Thorin II Oakenshield, Théoden, Théodred Ulmo, Ugluk
+* Saruman, Smeagol, Samwise, Sauron, Shadowfax, Shelob
+* Turin Turambar, Thorin II Oakenshield, Théoden, Théodred
+* Ulmo, Ugluk
 * Vana, Varda
 * Wulf, Witch-King of Angmar, Wormtongue
+* X
 * Yavanna
 * Zamîn, Zimraphel, Zimrathôn
 
 ## Marvel Characters
 * Ant-Man
-* Black Widow Captain Marvel Daredevil
+* Black Widow
+* Captain Marvel
+* Daredevil
 * Elektra
 * Falcon
 * Groot
@@ -377,26 +417,31 @@ With help from the rest of the state for J, Q, X, Z - Obtained from http://en.wi
 * Odin
 * Punisher
 * Quake
-* Rocket Racoon Scarlet Witch
+* Rocket Racoon
+* Scarlet Witch
 * Thor
-* Ultimate Spider Man Vision
+* Ultimate Spider Man
+* Vision
 * Wasp
 * X-Men
 * Yukio
 * Zarathos
 
 ## Movies of Samuel L Jackson He has made 148 of them and is only missing a Y and and V.
-* Astro Boy Basic
+* Astro Boy
+* Basic
 * Cleaner
 * Deep Blue Sea
 * Eve's Bayou
 * Freedomland
 * Goodfellas
 * Home of the Brave
-* Iron Man, The Incredibles, Inglorious Bastards Jurassic Park
+* Iron Man, The Incredibles, Inglorious Bastards
+* Jurassic Park
 * Kill Bill
 * Lakeview Terrace
-* Miss Peregrine's Home for Peculiar Children No Good Deed
+* Miss Peregrine's Home for Peculiar Children
+* No Good Deed
 * OldBoy
 * Pulp Fiction
 * Quantum Quest
@@ -404,8 +449,10 @@ With help from the rest of the state for J, Q, X, Z - Obtained from http://en.wi
 * Snakes on a Plane
 * True Romance
 * Unbreakable
-* eVerything is Samuel L Jackson's Fault White Sands
+* eVerything is Samuel L Jackson's Fault
+* White Sands
 * xXx
+* Y
 * Zambezia
 
 ## Musical Instruments
@@ -509,7 +556,9 @@ With help from the rest of the state for J, Q, X, Z - Obtained from http://en.wi
 * Nightwish
 * Oz
 * Pegazus - Pagan's Mind
-* Rainbow - Rhapsody of Fire - Running Wild Savatage
+* Q
+* Rainbow - Rhapsody of Fire - Running Wild
+* Savatage
 * Tarot
 * Unleash the Archers
 * Van Canto
@@ -636,31 +685,48 @@ Mostly fast food, obtained from http://en.wikipedia.org/wiki/List_of_fast_food_r
 * Armageddon, Achtung!
 * Bears
 * Cloister Bell
-* Dogs and Cats Living Together Epic Fail
-* Falling Rocks Gamergate
-* Hair on Fire Internet Comments Jury Duty
-* Kaiju Attack, Khaaaaaaaaaaan Low-Density Lipoproteins
-* Mild Jazz Hands, Mass Hysteria Narwhals
+* Dogs and Cats Living Together
+* Epic Fail
+* Falling Rocks
+* Gamergate
+* Hair on Fire
+* Internet Comments
+* Jury Duty
+* Kaiju Attack, Khaaaaaaaaaaan
+* Low-Density Lipoproteins
+* Mild Jazz Hands, Mass Hysteria
+* Narwhals
 * Oblivion
-* Protonic Reversal, Panic Quicksand!
-* Rain of Spiders Sharknado
-* Tsunami Warning Unicorn Poop Vengeance
-* White Walkers Xenomorphs
+* Protonic Reversal, Panic
+* Quicksand!
+* Rain of Spiders
+* Sharknado
+* Tsunami Warning
+* Unicorn Poop
+* Vengeance
+* White Walkers
+* Xenomorphs
 * Yeti
 * Zombie Apocalypse
 
 ## Jackie Chan Movies
-* Around the World in 80 Days Black Dragon
+* Around the World in 80 Days
+* Black Dragon
 * City Hunter
 * Dragon Lord
-* Enter the Dragon Fearless Hyena 2 Gen-X Cops
+* Enter the Dragon
+* Fearless Hyena 2
+* Gen-X Cops
 * Heart of the Dragon House of Fury
 * In Eagle's Shadow Fist
 * Jackie Chan's Project A
 * Kung Fu Panda
-* The Legend of Drunken Master My Lucky Stars
+* The Legend of Drunken Master
+* My Lucky Stars
 * Ninja Thunderbolt
-* Operation Condor 2: The Armour of Gods Police Story
+* Operation Condor 2: The Armour of Gods
+* Police Story
+* Q
 * Rumble in the Bronx
 * Shanghai Knights
 * Twin Dragons
@@ -674,25 +740,55 @@ Mostly fast food, obtained from http://en.wikipedia.org/wiki/List_of_fast_food_r
 ## Roman History that Jeff Knows
 * Augustus
 * Boudicca
-* Cleopatra Diocletian
-* Pliny the Elder Flavian Dynasty Gaius Marius Hannibal
+* Cleopatra
+* Diocletian
+* Pliny the Elder
+* Flavian Dynasty
+* Gaius Marius
+* Hannibal
 * Iceni
-* Julius Ceasar Koblenz
+* Julius Ceasar
+* Koblenz
 * Lucretia
-* Marcus Aurelius Nero
-* Odaenathus Punic Wars Quaestor Romulus
-* Scipio Africanus Tiberius Gracchus Umbilicus Romae Vercingetorix Hadrians Wall Xenia of Martial York
+* Marcus Aurelius
+* Nero
+* Odaenathus
+* Punic Wars
+* Quaestor
+* Romulus
+* Scipio Africanus
+* Tiberius Gracchus
+* Umbilicus Romae
+* Vercingetorix Hadrians
+* Wall
+* Xenia of Martial
+* York
 * Battle of Zama
 
 ## 80s Saturday Morning Cartoons
-* Alvin & The Chipmunks BraveStarr
+* Alvin & The Chipmunks
+* BraveStarr
 * Captain N
 * DuckTales
 * Ewoks
-* Fraggle Rock Gummi Bears He-Man
-* Inspector Gadget Jem
+* Fraggle Rock
+* Gummi Bears
+* He-Man
+* Inspector Gadget
+* Jem
 * Kidd Video
 * The Littles
-* My Pet Monster Pound Puppies Real Ghostbusters Smurfs
-* Thundercats Voltron Wuzzles
+* My Pet Monster
+* N
+* O
+* Pound Puppies
+* Q
+* Real Ghostbusters
+* Smurfs
+* Thundercats
+* U
+* Voltron
+* Wuzzles
+* X
 * Yo Yogi
+* Z
